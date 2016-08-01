@@ -1,0 +1,121 @@
+{
+	"riddles": 
+	[
+		{
+			"id":1,
+			"riddle":"A neophyte's best friend,\na thorn-armored dame.\n\nAlong with a plant,\na cloud gave me fame.",
+			"answer":"Ashe"
+		},
+		{
+			"id":2,
+			"riddle":"I help those nearby,\na quite silent aid,\n\nand in season 4\nI even get paid!",
+			"answer":"Sona"
+		},
+		{
+		    "id":3,
+		    "riddle":"Pillaging fighter,\na swing like no other.\n\nAt the end of the day,\nyour rude drinking brother.",
+		    "answer":"Olaf"
+		},
+		{
+            "id":4,
+            "riddle":"Enemies flame me,\nA respectless brat\n\nBut TSM love me,\nI'm turtle and cat!",
+            "answer":"Udyr"
+        },
+		{
+	        "id":5,
+	        "riddle":"I've got a quick diet\nfor you, stalwart fighter.\n\nTwenty-one grams,\nyes, I'll make you lighter.",
+	        "answer":"Thresh"
+		},
+        {
+            "id":6,
+            "riddle":"Walk through the shadows,\nin your lane we will meet.\n\nThis sucks for me too,\nthese shoes hurt my feet!",
+            "answer":"Evelynn"
+        },
+        {
+            "id":7,
+            "riddle":"I'm named by the bard,\nbut to grasp me fully,\n\nyou just need to know,\nI'm the rift's biggest bully.",
+            "answer":"Yorick"
+        },
+        {
+            "id":8,
+            "riddle":"I require mechanics\nand timing in fights\n\nbut still good for bronzies\nI flash your ignites!",
+            "answer":"Yasuo"
+        },
+        {
+            "id":9,
+            "riddle":"A low cooldown malphite\nwill make people cry.\n\nUnless you're a hotshot,\ngive it a try!",
+            "answer":"Alistar"
+        },
+        {
+            "id":10,
+            "riddle":"I poke and i shift,\nlike i'm Doublelift.\n\nFaced MadLife predictions,\ngot hooked from the rift!",
+            "answer":"Ezreal"
+        },
+        {
+            "id":11,
+            "riddle":"I threatened and scared them,\nnow they call me master,\n\nmy murder approaches,\nyou better run faster!",
+            "answer":"Fiddlesticks"
+        },
+        {
+            "id":12,
+            "riddle":"You were chasing my friend,\nall cooldowns got thrown.\n\nHe blew up, a penta,\nnow i'm all alone.",
+            "answer":"Shaco"
+        },
+        {
+            "id":13,
+            "riddle":"Jump in to delete you,\nthen jump to the side.\n\nYou really can't kill me\nwithout pesticide.",
+            "answer":"Kha'Zix"
+        },
+        {
+            "id":14,
+            "riddle":"Feeding to win,\nthat's just my style.\n\nYou can say that i'm toxic\nbut i will just smile",
+            "answer":"Singed"
+        },
+        {
+            "id":15,
+            "riddle":"Accidents happen\nbut wow, it looked cool!\n\nI played with my powers\nand now there's no school!",
+            "answer":"Annie"
+        },
+        {
+            "id":16,
+            "riddle":"I might be a nerd\nbut no, let's be fair\n\nI look like i'm smart\nbut it's really my hair",
+            "answer":"Heimerdinger"
+        },
+        {
+            "id":17,
+            "riddle":"I somewhat resemble\nA mythical steed\n\nA quite cheap assistant\nI mend those in need",
+            "answer":"Soraka"
+        },
+        {
+            "id":18,
+            "riddle":"A tame carnivore\nA stacked lategame beast\n\nYet i am softspoken\nAlmost like a priest",
+            "answer":"Nasus"
+        },
+        {
+            "id":19,
+            "riddle":"It's obvious really\nFor anyone bright\n\nI resemble a noob\nIn a deadly fight.",
+            "answer":"Zed"
+        },
+        {
+            "id":20,
+            "riddle":"The sky is just jealous,\nIt claims i'm a pest.\n\nBut i've got real talent,\nI'd challenge the best.",
+            "answer":"Fiora"
+        },
+        {
+            "id":21,
+            "riddle":"I look small and harmless?\nThings change, you'll see.\n\nSay hi to my friend!\nMachinegun, meet knee.",
+            "answer":"Lulu"
+        },
+        {
+            "id":22,
+            "riddle":"A dangerous object?\nWell i can see four\n\nIf you can pronounce this\nYou will learn some more",
+            "answer":"Ziggs"
+        },
+        {
+            "id":23,
+            "riddle":"For many a player\nA forbidden toy\n\nNo one runs from\nThe yordle of alloy",
+            "answer":"Amumu"
+         }
+
+	]
+}
