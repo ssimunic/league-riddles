@@ -2,4 +2,4 @@
 League Riddles guessing smartphone app for League  of Legends
 
 # Screenshot
-![](preview.png)
+<img src="preview.png" width="400">
