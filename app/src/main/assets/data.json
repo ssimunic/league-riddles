@@ -1,31 +1,31 @@
 {
 	"riddles": 
 	[
-		{
-			"id":1,
-			"riddle":"A neophyte's best friend,\na thorn-armored dame.\n\nAlong with a plant,\na cloud gave me fame.",
-			"answer":"Ashe"
-		},
-		{
-			"id":2,
-			"riddle":"I help those nearby,\na quite silent aid,\n\nand in season 4\nI even get paid!",
-			"answer":"Sona"
-		},
-		{
-		    "id":3,
-		    "riddle":"Pillaging fighter,\na swing like no other.\n\nAt the end of the day,\nyour rude drinking brother.",
-		    "answer":"Olaf"
-		},
-		{
-            "id":4,
-            "riddle":"Enemies flame me,\nA respectless brat\n\nBut TSM love me,\nI'm turtle and cat!",
-            "answer":"Udyr"
+	{
+		"id":1,
+		"riddle":"A neophyte's best friend,\na thorn-armored dame.\n\nAlong with a plant,\na cloud gave me fame.",
+		"answer":"Ashe"
+	},
+	{
+		"id":2,
+		"riddle":"I help those nearby,\na quite silent aid,\n\nand in season 4\nI even get paid!",
+		"answer":"Sona"
+	},
+	{
+		"id":3,
+		"riddle":"Pillaging fighter,\na swing like no other.\n\nAt the end of the day,\nyour rude drinking brother.",
+		"answer":"Olaf"
+	},
+	{
+        	"id":4,
+            	"riddle":"Enemies flame me,\nA respectless brat\n\nBut TSM love me,\nI'm turtle and cat!",
+            	"answer":"Udyr"
         },
-		{
+	{
 	        "id":5,
 	        "riddle":"I've got a quick diet\nfor you, stalwart fighter.\n\nTwenty-one grams,\nyes, I'll make you lighter.",
 	        "answer":"Thresh"
-		},
+	},
         {
             "id":6,
             "riddle":"Walk through the shadows,\nin your lane we will meet.\n\nThis sucks for me too,\nthese shoes hurt my feet!",
@@ -115,7 +115,6 @@
             "id":23,
             "riddle":"For many a player\nA forbidden toy\n\nNo one runs from\nThe yordle of alloy",
             "answer":"Amumu"
-         }
-
+        }
 	]
 }
